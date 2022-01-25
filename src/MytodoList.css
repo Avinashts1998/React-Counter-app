@@ -1,0 +1,58 @@
+.bg-container{
+
+    background-color: #cc0099;
+    height: 100vh;
+    padding: 10px;
+    text-align: center;
+}
+.todo-container{
+    padding: 10px;
+}
+
+
+
+.main-headline{
+    color: #ffffff;
+    font-family: "Roboto";
+}
+.input-style{
+    height: 30px;
+    width: 300px;
+    border-radius: 5px;
+    border: 0px;
+    text-align: center;
+}
+.add-button{
+    height: 32px;
+    width: 60px;
+    color: white;
+    background-color: #0066ff;
+    border: 0px;
+    border-radius: 5px;
+    margin: 10px;
+}
+.list-container{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+   
+}
+.list-items{
+    color: white;
+    font-size: 30px;
+    font-family: "Breef Serif";
+   text-align: center;
+   
+    
+}
+.delete-button{
+    height: 30px;
+    width: 60px;
+    border: 0px;
+    border-radius: 5px;
+    margin-left: 30px;
+
+}
+.box-content{
+    text-align: center;
+}
